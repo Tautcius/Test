@@ -1,0 +1,19 @@
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.autoSearchPath": true,
+    "python.autoComplete.extraPaths": [
+        ".micropy\\BradenM-micropy-stubs-b98ceb3\\frozen",
+        ".micropy\\BradenM-micropy-stubs-444295e\\frozen",
+        ".micropy\\BradenM-micropy-stubs-b98ceb3\\stubs",
+        ".micropy\\Pymakr"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.extraPaths": [
+        ".micropy\\BradenM-micropy-stubs-b98ceb3\\frozen",
+        ".micropy\\BradenM-micropy-stubs-444295e\\frozen",
+        ".micropy\\BradenM-micropy-stubs-b98ceb3\\stubs",
+        ".micropy\\Pymakr"
+    ],
+    "python.formatting.autopep8Path": "black",
+}

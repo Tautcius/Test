@@ -1,0 +1,29 @@
+{
+    "wifi": {
+        "ssid": "Zavuciai",
+        "password": "Tustukai115"
+    },
+    "wlan_antenna": 0,
+    "dump_ca": false,
+    "server": "mqtt.pybytes.pycom.io",
+    "ssl": false,
+    "lte": {
+        "apn": "lpwa.telia.iot",
+        "cid": 1,
+        "reset": false,
+        "carrier": "standard",
+        "band": 20,
+        "type": "IP"
+    },
+    "device_id": "be71f8dd-81c4-48ac-b77e-7fbd27689854",
+    "network_preferences": [
+        "wifi",
+        "lte"
+    ],
+    "ota_server": {
+        "port": 443,
+        "domain": "software.pycom.io"
+    },
+    "pybytes_autostart": true,
+    "username": "t.bujauskas@gmail.com"
+}

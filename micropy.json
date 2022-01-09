@@ -1,0 +1,14 @@
+{
+    "name": "Test",
+    "stubs": {
+        "WiPy-pycom-1.18.2": "1.2.0"
+    },
+    "dev-packages": {
+        "micropy-cli": "*"
+    },
+    "packages": {},
+    "config": {
+        "vscode": true,
+        "pylint": true
+    }
+}
